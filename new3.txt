@@ -1,0 +1,3 @@
+this is new and exciting 
+number 3
+How to commit multiple files at once
