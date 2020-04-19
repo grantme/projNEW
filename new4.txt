@@ -1,1 +1,2 @@
 New file created in branch1
+Fix file causing merge  conflict
